@@ -1,0 +1,5 @@
+# Build tools for the in-browser Jupyter lab (JupyterLite).
+# jupyter-server is required to add the notebooks in content/ to the build.
+jupyterlite-core
+jupyterlite-pyodide-kernel
+jupyter-server
